@@ -1,2 +1,9 @@
-Lib
 penv
+# python 가상화 폴더 및 파일
+Lib
+lib
+lib64
+Scripts
+bin
+share
+pyvenv.cfg
